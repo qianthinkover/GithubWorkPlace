@@ -1,0 +1,6 @@
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQCommon\bin\RabbitMQCommon.dll
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQCommon\bin\RabbitMQCommon.pdb
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQCommon\bin\Newtonsoft.Json.dll
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQCommon\obj\Debug\RabbitMQCommon.csprojResolveAssemblyReference.cache
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQCommon\obj\Debug\RabbitMQCommon.dll
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQCommon\obj\Debug\RabbitMQCommon.pdb

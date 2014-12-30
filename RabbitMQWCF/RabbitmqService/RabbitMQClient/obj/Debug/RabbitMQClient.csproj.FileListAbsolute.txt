@@ -1,0 +1,5 @@
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQClient\bin\Debug\RabbitMQClient.exe.config
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQClient\bin\Debug\RabbitMQClient.exe
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQClient\bin\Debug\RabbitMQClient.pdb
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQClient\obj\Debug\RabbitMQClient.exe
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQClient\obj\Debug\RabbitMQClient.pdb

@@ -1,0 +1,5 @@
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQServicePeer\bin\Debug\RabbitMQServicePeer.exe.config
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQServicePeer\bin\Debug\RabbitMQServicePeer.exe
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQServicePeer\bin\Debug\RabbitMQServicePeer.pdb
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQServicePeer\obj\Debug\RabbitMQServicePeer.exe
+C:\Users\guoqian\Documents\Visual Studio 2013\Projects\RabbitDemos\RabbitmqService\RabbitMQServicePeer\obj\Debug\RabbitMQServicePeer.pdb
